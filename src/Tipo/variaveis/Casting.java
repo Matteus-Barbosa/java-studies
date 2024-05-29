@@ -1,4 +1,4 @@
-package Operadores;
+package Tipo.variaveis;
 
 public class Casting {
     public static void main(String[] args) {
