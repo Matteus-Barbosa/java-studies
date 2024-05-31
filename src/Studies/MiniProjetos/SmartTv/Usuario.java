@@ -1,4 +1,4 @@
-package Metodos.SmartTv.MiniProjeto;
+package Studies.MiniProjetos;
 
 public class Usuario {
     public static void main(String[] args) {

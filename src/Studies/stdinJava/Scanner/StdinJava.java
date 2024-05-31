@@ -1,8 +1,8 @@
-package Stdin.Scanner;
+package Studies.stdinJava.Scanner;
 
 import java.util.Scanner; // Importando do pacote java.util a classe Scanner
 
-public class StandardInputJava {
+public class StdinJava {
     public static void main(String[] args) {
         // Criando o objeto scanner:
         Scanner scanner = new Scanner(System.in);
@@ -21,5 +21,6 @@ public class StandardInputJava {
         System.out.println("Ola, me chamo " + nome + " " + sobrenome);
         System.out.println("Tenho " + idade + " anos ");
         System.out.println("Minha altura é " + altura + "cm ");
+
     }
 }
